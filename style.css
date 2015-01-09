@@ -1,0 +1,38 @@
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+.dir circle{
+    stroke: #F0F;
+}
+.srmgr circle{
+    stroke: #00F;
+}
+.mgr circle{
+    stroke: #0F0;
+}
+.srassociate circle{
+    stroke: #FA0;
+}
+.associate circle{
+    stroke: #F00;
+}
+.node {
+  font: 10px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+.slider{
+    width: 750px;
+	float: left;
+}
+.office-select{
+	margin-left: 50px;
+	margin-top: 0;
+	float: left;
+}
